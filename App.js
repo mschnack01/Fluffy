@@ -8,6 +8,9 @@ import {
   Button,
     ImageBackground,
 } from 'react-native';
+import { createBottomTabNavigator } from 'react-navigation-tabs';
+import { createAppContainer } from 'react-navigation';
+
 import Constants from 'expo-constants';
 import firebase from 'firebase';
 import SignUpForm from './components/SignUpForm';
@@ -103,7 +106,19 @@ export default class App extends React.Component {
           {this.renderLoginSignup()}
         </ImageBackground>
     );
+
+    const tabNavigator = createBottomTabNavigator(
+        {
+          settings: Settings,
+        },
+        {tabBarOptions: { labelStyle: {fontSize: 24}}}
+    );
+
+createAppContainer(tabNavigator);
   }
+
+
+
 }
 
 const styles = StyleSheet.create({

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e433154-f4af-4e0c-9296-adab7a7bf65f" name="Default Changelist" comment="" />
+    <list default="true" id="7e433154-f4af-4e0c-9296-adab7a7bf65f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+            <state relative-caret-position="479">
+              <caret line="116" column="33" selection-start-line="116" selection-start-column="33" selection-end-line="116" selection-end-column="33" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -51,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/components/LoginForm.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="93">
-              <caret line="29" column="91" lean-forward="true" selection-start-line="29" selection-start-column="91" selection-end-line="29" selection-end-column="91" />
+              <caret line="29" column="91" selection-start-line="29" selection-start-column="91" selection-end-line="29" selection-end-column="91" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -63,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/components/Settings.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="44" />
+              <caret line="8" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="44" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -75,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/components/SignUpForm.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1395">
-              <caret line="93" column="19" lean-forward="true" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
+              <caret line="93" column="19" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -112,7 +116,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="860" />
+    <option name="x" value="313" />
     <option name="y" value="23" />
     <option name="width" value="1720" />
     <option name="height" value="1417" />
@@ -153,7 +157,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572620038478" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572621682876" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/NodeJS/js/nodeunit/nodeunit-intellij-starter.js" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -203,15 +207,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572609898591</updated>
-      <workItem from="1572609901867" duration="9920000" />
+      <workItem from="1572609901867" duration="12077000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9920000" />
+    <option name="totallyTimeSpent" value="12077000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1303" y="24" width="1720" height="1417" extended-state="0" />
+    <frame x="313" y="23" width="1720" height="1417" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -276,7 +280,7 @@
     <entry file="file://$PROJECT_DIR$/components/LoginForm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
-          <caret line="29" column="91" lean-forward="true" selection-start-line="29" selection-start-column="91" selection-end-line="29" selection-end-column="91" />
+          <caret line="29" column="91" selection-start-line="29" selection-start-column="91" selection-end-line="29" selection-end-column="91" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -286,7 +290,7 @@
     <entry file="file://$PROJECT_DIR$/components/SignUpForm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1395">
-          <caret line="93" column="19" lean-forward="true" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
+          <caret line="93" column="19" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -296,7 +300,7 @@
     <entry file="file://$PROJECT_DIR$/components/Settings.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="44" />
+          <caret line="8" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="44" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -305,8 +309,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+        <state relative-caret-position="479">
+          <caret line="116" column="33" selection-start-line="116" selection-start-column="33" selection-end-line="116" selection-end-column="33" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
